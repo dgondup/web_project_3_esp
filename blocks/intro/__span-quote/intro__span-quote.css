@@ -1,0 +1,8 @@
+.intro__span-quote {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  position: absolute;
+  top: 112px;
+  right: 0;
+}
