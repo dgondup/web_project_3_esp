@@ -1,5 +1,5 @@
 .logo {
-  max-width: 270px;
-  max-height: 70px;
+  min-width: 270px;
+  min-height: 70px;
   margin: 34px auto auto;
 }

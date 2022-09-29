@@ -1,0 +1,5 @@
+.place {
+  color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+}

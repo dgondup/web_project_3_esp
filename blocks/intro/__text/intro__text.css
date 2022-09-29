@@ -1,7 +1,7 @@
 .intro__text {
   position: relative;
   max-width: 722px;
-  align-self: flex-start;
+  /* align-self: flex-start; */
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
