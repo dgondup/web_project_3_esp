@@ -15,9 +15,11 @@
 @import url("/blocks/photo-grid/__image/photo-grid__image.css");
 @import url("/blocks/places/places.css");
 @import url("/blocks/place/place.css");
+@import url("/blocks/place/__column/place__column.css");
 @import url("/blocks/place/__title/place__title.css");
 @import url("/blocks/place/__image/place__image.css");
 @import url("/blocks/place/__link/place__link.css");
 @import url("/blocks/place/__subtitle/place__subtitle.css");
 @import url("/blocks/place/__subtitle/_span/place__subtitle_span.css");
 @import url("/blocks/place/__text/place__text.css");
+@import url("/blocks/place/__subtitle/_additional-text/place__subtitle_additional-text.css");

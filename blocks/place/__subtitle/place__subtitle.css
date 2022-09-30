@@ -1,0 +1,11 @@
+.place__subtitle {
+  min-width: 484px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.22;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-top: 107px;
+}
