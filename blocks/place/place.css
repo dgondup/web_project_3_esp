@@ -2,4 +2,6 @@
   color: #fff;
   display: flex;
   justify-content: space-between;
+  padding-bottom: 48px;
+  /* min-height: 725px; */
 }

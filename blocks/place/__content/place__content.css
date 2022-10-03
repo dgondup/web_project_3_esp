@@ -1,0 +1,11 @@
+.place__content {
+  /* display: flex;
+  flex-direction: column; */
+  justify-content: space-between;
+  /* height: 65%; */
+  max-width: 484px;
+  /* padding-bottom: 48px; */
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
