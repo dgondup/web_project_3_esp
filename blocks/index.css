@@ -27,3 +27,9 @@
 @import url("/blocks/place/__text/place__text.css");
 @import url("/blocks/place/__content/_grid/place__content_grid_added-row.css");
 @import url("/blocks/place/__content/_grid/place__content_grid_gap.css");
+@import url("/blocks/cover/cover.css");
+@import url("/blocks/cover/__content/cover__content.css");
+@import url("/blocks/cover/__content/__content-image/cover__content-image.css");
+@import url("/blocks/cover/__content/__content-title/cover__content-title.css");
+@import url("/blocks/cover/__content/__content-text/cover__content-text.css");
+@import url("/blocks/cover/__content/__content-link/cover__content-link.css");
