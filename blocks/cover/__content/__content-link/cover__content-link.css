@@ -1,0 +1,17 @@
+.cover__content-link {
+  text-decoration: none;
+  color: #fff;
+  max-width: 198px;
+  min-height: 48px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0278FE;
+  border-radius: 4px;
+  position: relative;
+  z-index: 3;
+}
