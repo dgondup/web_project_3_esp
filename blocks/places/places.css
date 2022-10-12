@@ -1,7 +1,4 @@
 .places {
-  display: flex;
-  flex-direction: column;
-  max-width: 987px;
   margin: 42px auto 92px;
   padding-top: 42px;
 }

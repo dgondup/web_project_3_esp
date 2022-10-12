@@ -1,9 +1,5 @@
 .place__title {
-  font-style: normal;
-  font-weight: 900;
+  font-family: "inter black";
   font-size: 72px;
   line-height: 1.06;
-  max-width: 460px;
-  max-height: 152px;
-  margin-bottom: 48px;
 }
