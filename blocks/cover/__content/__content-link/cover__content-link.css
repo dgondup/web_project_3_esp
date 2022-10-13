@@ -1,7 +1,7 @@
 .cover__content-link {
   text-decoration: none;
   color: #fff;
-  max-width: 198px;
+  min-width: 198px;
   min-height: 48px;
   font-family: "Inter semibold";
   font-size: 18px;
@@ -12,5 +12,6 @@
   background-color: #0278FE;
   border-radius: 4px;
   position: relative;
-  z-index: 3;
+  /* z-index: 3; */
+  justify-self: center;
 }

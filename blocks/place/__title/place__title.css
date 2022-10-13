@@ -2,4 +2,7 @@
   font-family: "inter black";
   font-size: 72px;
   line-height: 1.06;
+  grid-area: title;
+  align-self: end;
+  max-width: 460px;
 }

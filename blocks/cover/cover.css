@@ -1,5 +1,7 @@
 .cover {
   max-width: 1184px;
   min-height: 740px;
-  margin: auto;
+  margin: auto auto 92px;
+  /* position: relative; */
+  /* background-image: url("/images/cover-background.png"); */
 }

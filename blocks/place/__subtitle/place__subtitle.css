@@ -1,3 +1,5 @@
 .place__subtitle {
   font-family: "inter regular";
+  grid-area: subtitle;
+  align-self: end;
 }

@@ -2,7 +2,7 @@
   text-decoration: none;
   color: #fff;
   max-width: 355px;
-  min-height: 48px;
+  max-height: 48px;
   font-family: "inter semibold";
   font-size: 18px;
   line-height: 1;
@@ -11,4 +11,5 @@
   justify-content: center;
   background-color: #0278FE;
   border-radius: 4px;
+  grid-area: link;
 }
