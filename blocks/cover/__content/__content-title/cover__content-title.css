@@ -3,7 +3,6 @@
   font-size: 72px;
   line-height: 106%;
   color: #FFFDFD;
-  /* z-index: 1; */
-  position: relative;
+  z-index: 1;
   text-align: center;
 }

@@ -11,7 +11,11 @@
   justify-content: center;
   background-color: #0278FE;
   border-radius: 4px;
-  position: relative;
-  /* z-index: 3; */
+  z-index: 3;
   justify-self: center;
+  transition: background 0.3s ease 0s;
+}
+
+.cover__content-link:hover {
+  background: #0063D2;
 }

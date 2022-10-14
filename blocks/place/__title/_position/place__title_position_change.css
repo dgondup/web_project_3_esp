@@ -1,0 +1,5 @@
+.place__title_position_change {
+  width: fit-content;
+  grid-column-end: text-end;
+  min-height: 152px;
+}

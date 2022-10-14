@@ -2,12 +2,11 @@
   color: #fff;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(4, 1fr);
-  grid-gap: 25px 40px;
+  grid-template-rows: 0.5fr 2fr 0.5fr;
+  grid-gap: 48px 40px;
   grid-template-areas: 
   "title subtitle" 
-  "image text1" 
-  "image text2" 
-  "link text3";
+  "image text"
+  "link text";
   margin-bottom: 51px;
 }
