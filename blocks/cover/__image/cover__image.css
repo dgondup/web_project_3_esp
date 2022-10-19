@@ -7,3 +7,10 @@
 .cover__image:hover {
   opacity: 0.3;
 }
+
+@media screen and (max-width: 768px) {
+  .cover__image {
+    justify-self: center;
+  }
+  
+}

@@ -10,3 +10,11 @@
   "link text";
   margin-bottom: 51px;
 }
+
+@media screen and (max-width: 768px) {
+  .place {
+    grid-gap: 24px 28px;
+    grid-template-rows: 0.2fr 2fr 1fr;
+    margin-bottom: 30px;
+}
+}

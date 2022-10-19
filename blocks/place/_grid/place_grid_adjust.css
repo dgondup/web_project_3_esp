@@ -1,0 +1,5 @@
+@media screen and (max-width: 768px) {
+  .place_grid_adjust {
+    grid-template-rows: 0.2fr 2fr 2fr;
+  }
+}

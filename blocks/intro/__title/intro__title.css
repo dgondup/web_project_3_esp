@@ -6,3 +6,9 @@
   margin-bottom: 40px;
   font-family: "inter black";
 }
+
+@media screen and (max-width: 768px) {
+  .intro__title {
+    min-width: 720px;
+  }
+}

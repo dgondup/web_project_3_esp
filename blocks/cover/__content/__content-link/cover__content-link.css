@@ -19,3 +19,7 @@
 .cover__content-link:hover {
   background: #0063D2;
 }
+
+.cover__content-link:hover + .cover__image {
+  opacity: 0.3;
+}

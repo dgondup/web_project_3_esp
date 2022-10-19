@@ -3,3 +3,10 @@
   grid-column-end: text-end;
   min-height: 152px;
 }
+
+@media screen and (max-width:768px) {
+  .place__title_position_change {
+    min-height: auto;
+  }
+  
+}

@@ -1,8 +1,20 @@
 .place__title {
   font-family: "inter black";
+  font-weight: 900;
   font-size: 72px;
   line-height: 1.06;
   grid-area: title;
   align-self: end;
   width: min-content;
+}
+
+@media screen and (max-width: 768px) {
+  .place__title {
+    max-width: 340px;
+    font-size: 42px;
+    line-height: 110%;
+    width: max-content;
+    align-self: center;
+  }
+  
 }
