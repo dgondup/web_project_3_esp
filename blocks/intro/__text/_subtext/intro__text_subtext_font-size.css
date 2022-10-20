@@ -4,3 +4,9 @@
   line-height: 163%;
   max-width: 720px;
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .intro__text_subtext_font-size {
+    margin-top: 0;
+  }
+}

@@ -6,11 +6,15 @@
   
 **Introducción**    
   
-Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales. Recomendamos invertir más tiempo en completar este proyecto, ya que es más difícil que los anteriores.     
+Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales. Recomendamos invertir más tiempo en completar este proyecto, ya que es más difícil que los anteriores.
+Se añadió un bloque con informacion del estudiante que ha desarrollado este proyecto. 
   
 **Figma**  
   
 * [Enlace al proyecto en Figma](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)  
+
+Se ha creado la pagina siguiendo los lineamientos responsivos en base a 3 resoluciones, 1280, 768 y 320px.
+se han usado todas las imagenes y las fuentes dadas por el diseño.
   
 **Imágenes**  
   

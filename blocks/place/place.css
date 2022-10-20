@@ -11,10 +11,20 @@
   margin-bottom: 51px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 1279px) {
   .place {
     grid-gap: 24px 28px;
     grid-template-rows: 0.2fr 2fr 1fr;
     margin-bottom: 30px;
 }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .place {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-gap: unset;
+    grid-template-areas: "title" "subtitle" "image" "text" "link";
+    margin-bottom: 20px;
+  }
 }

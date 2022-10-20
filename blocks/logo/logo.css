@@ -3,3 +3,12 @@
   min-height: 70px;
   margin: 34px auto auto;
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .logo {
+    min-width: 200px;
+    max-width: 200px;
+    min-height: 51.85px;
+    margin: 20px auto 0;
+  }
+}
