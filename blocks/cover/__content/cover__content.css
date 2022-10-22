@@ -1,5 +1,5 @@
 .cover__content {
-  position: relative;
+  /* position: relative; */
   display: grid;
   grid-template-rows: repeat(3, 1fr);
   max-height: 254px;
